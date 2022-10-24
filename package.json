@@ -1,7 +1,6 @@
-  GNU nano 5.4                                                                                                        package.json                                                                                                                 
 {
   "name": "homebridge-moonraker",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Moonraker plugin for homebridge: https://github.com/nfarina/homebridge",
   "license": "MIT",
   "keywords": [
